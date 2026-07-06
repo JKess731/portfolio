@@ -23,3 +23,6 @@ contact-submissions.txt
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
+.env*
